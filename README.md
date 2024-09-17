@@ -20,7 +20,7 @@
 
 - During this project, I got more comfortable handling the result of the research and research process overall such as getting the results handle the search input and pass its value in the API to get the result that you expect on the map.
 
-## 💻 Demo: https://search-location-c7vm2upj4-abdullahs-projects-4b81ccc7.vercel.app/
+## 💻 Demo: https://location-search-reactts.vercel.app/
 
 Currently, two official plugins are available:
 
